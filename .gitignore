@@ -42,6 +42,7 @@ src/amplifyconfiguration.json
 src/API.ts
 src/aws-exports.js
 src/graphql/
+amplify/
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
