@@ -2,6 +2,10 @@
 
 A dating app built in React.
 
+## Demo
+
+[Youtube link to demo](https://youtu.be/FBeHaxfmw0I)
+
 ## Current features
 
 * Sign up for an account
